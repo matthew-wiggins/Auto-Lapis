@@ -1,0 +1,9 @@
+no-permission: '&4&l[!] &cYou do not have permission to do this!'
+commands:
+  error: '&4&l[!] &cUnknown command; type "&4/autolapis help&c" for more information!'
+  help:
+    - '&6&l[!] &eAutoLapis Help:'
+    - '  &e/autolapis help &f- &7Shows this help message'
+    - '  &e/autolapis reload &f- &7Reload the plugin''s files'
+  reload:
+    success: '&6&l[!] &eYou have successfully reloaded AutoLapis!'

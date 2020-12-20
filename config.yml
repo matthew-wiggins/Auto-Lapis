@@ -1,0 +1,13 @@
+#AutoLapis will only work in these worlds
+worlds:
+  - world
+  - world_nether
+  - world_the_end
+
+item:
+  lapis:
+    #If you do not want a custom name/lore replace with:
+    # name: '' and lore: []
+    name: ''
+    lore: []
+    amount: 3
