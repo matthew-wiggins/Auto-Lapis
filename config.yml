@@ -1,3 +1,6 @@
+#When this is true, only players with the permission 'al.bypass' will have lapis put inside of their enchantment tables
+permission-based: false
+
 #AutoLapis will only work in these worlds
 worlds:
   - world
